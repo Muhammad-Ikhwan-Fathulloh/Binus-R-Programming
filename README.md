@@ -43,7 +43,8 @@ print("Hello World")
 
 ## 📍 Pertemuan 2: Data Types & Operators
 
-🔗 Link to Notebook
+[🔗 Link to Notebook
+](https://colab.research.google.com/drive/1hlyDlPeZs4y4n7aTqtOol_zPZiizvKnd?usp=sharing)
 
 2.1 Data Types in R
 
