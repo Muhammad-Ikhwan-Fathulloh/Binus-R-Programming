@@ -6,7 +6,7 @@
 
 ## 📍 Pertemuan 1: Introduction to R
 
-🔗 Link to Notebook
+[🔗 Link to Notebook](https://colab.research.google.com/drive/11x6NbPXDJDdtlKvIgisq4lI5WkpUp8ru?usp=sharing)  
 
 1.1 Installing R and RStudio
 
